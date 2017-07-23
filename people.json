@@ -1,15 +1,59 @@
-{
-  "people": [{
+
+  "people": {
                "name": "Miiro",
 	       "age": 30
 	     },
 	     {
+
 	       "name": "raymond",
 	       "age": 18
+
+	       "name": "Lhanna",
+	       "age": 20
+			 },
+				{
+					"name":"Kamal",
+					"age":29		 
 	     },
+
+  {
+	       "name": "addis",
+	       "age": 20
+
+	     },
+
 	     {
 	       "name": "Gaj",
 	       "age": -1
+
 	     }]
 
+	     }
+    "people": [{
+            "name": "Miiro",
+            "age": 30
+        },
+        {
+            "name": "Lhanna",
+            "age": 20
+        },
+        {
+            "name": "Gaj",
+            "age": -1
+        },
+{
+	       "name": "addis",
+	       "age": 20
+	     },
+        {
+            "name": "Kiya",
+            "age": 20
+        }, 
+{
+	       "name": "Nabil",
+	       "age": -2
+	     }
+
 }
+
+ 
