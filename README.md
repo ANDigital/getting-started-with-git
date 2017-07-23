@@ -1,5 +1,5 @@
 # Getting started with git
-This repository is the playground for a git workshop.
+This repository is the playground for a git workshop. [Slides for the workshop are available here.](https://docs.google.com/presentation/d/1CYTLwbYDX7joMcOedxpp8_llKvZqMTRpUNuh1CbQ7nA/edit?usp=sharing)
 
 ## Install git
 * Windows: https://git-for-windows.github.io/
