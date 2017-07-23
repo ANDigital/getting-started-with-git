@@ -11,9 +11,15 @@
             "name": "Gaj",
             "age": -1
         },
+{
+	       "name": "addis",
+	       "age": 20
+	     },
         {
             "name": "Kiya",
             "age": 20
         }
     ]
 }
+
+ 
