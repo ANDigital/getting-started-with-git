@@ -4,6 +4,10 @@
 	       "age": 30
 	     },
 	     {
+
+	       "name": "raymond",
+	       "age": 18
+
 	       "name": "Lhanna",
 	       "age": 20
 			 },
@@ -15,11 +19,15 @@
   {
 	       "name": "addis",
 	       "age": 20
+
 	     },
 
 	     {
 	       "name": "Gaj",
 	       "age": -1
+
+	     }]
+
 	     }
     "people": [{
             "name": "Miiro",
@@ -46,6 +54,9 @@
 	       "name": "Nabil",
 	       "age": -2
 
+	     }
+
+
 	     },
     
 
@@ -54,6 +65,7 @@
 				{
 					"name": "Amir"
 				}]
+
 
 }
 
