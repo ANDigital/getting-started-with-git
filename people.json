@@ -9,10 +9,18 @@
 			 },
 				{
 					"name":"Kamal",
-					"age":29
-				},		 
+					"age":29		 
+	     },
+
+  {
+	       "name": "addis",
+	       "age": 20
+	     },
+
 	     {
 	       "name": "Gaj",
 	       "age": -1
 	     }]
+
 }
+
