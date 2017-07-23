@@ -1,4 +1,26 @@
-{
+
+  "people": {
+               "name": "Miiro",
+	       "age": 30
+	     },
+	     {
+	       "name": "Lhanna",
+	       "age": 20
+			 },
+				{
+					"name":"Kamal",
+					"age":29		 
+	     },
+
+  {
+	       "name": "addis",
+	       "age": 20
+	     },
+
+	     {
+	       "name": "Gaj",
+	       "age": -1
+	     }
     "people": [{
             "name": "Miiro",
             "age": 30
@@ -23,8 +45,6 @@
 	       "name": "Nabil",
 	       "age": -2
 	     }
-    ]
-
 }
 
  
