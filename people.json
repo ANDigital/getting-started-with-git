@@ -6,7 +6,11 @@
 	     {
 	       "name": "Lhanna",
 	       "age": 20
-	     },
+			 },
+				{
+					"name":"Kamal",
+					"age":29
+				}		 
 	     {
 	       "name": "Gaj",
 	       "age": -1
